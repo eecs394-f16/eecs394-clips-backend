@@ -1,0 +1,22 @@
+Connection Settings
+
+Host
+ec2-54-235-124-2.compute-1.amazonaws.com
+
+Database
+d5f2jhp9vvsgqh
+
+User
+yaxjxskpbuqhrp
+
+Port
+5432
+
+Password
+a59tP-DWsdUu06qjF05JhGDcNg
+
+Psql
+heroku pg:psql --app eecs394-clips-backend DATABASE
+URL
+Show
+There are a variety of ways to connect to a Heroku Postgres database. Find out how to do so via psql, Java, Ruby, Python, or Node.js.
