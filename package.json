@@ -1,0 +1,25 @@
+{
+  "name": "eecs394-clips-backend",
+  "version": "1.0.0",
+  "description": "backend to clips",
+  "main": "index.js",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eecs394-f16/eecs394-clips-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eecs394-f16/eecs394-clips-backend/issues"
+  },
+  "homepage": "https://github.com/eecs394-f16/eecs394-clips-backend#readme",
+  "devDependencies": {
+    "express": "4.14.0",
+    "pg": "6.1.0"
+  }
+}
