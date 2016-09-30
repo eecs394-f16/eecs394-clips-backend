@@ -16,6 +16,9 @@ var db = pgp(connection);
 
 app.set('port', process.env.PORT || 3000);
 
+app.use(express.static(__dirname + '/public'));
+
+
 var getFromDatabase = function(queryString, callback){
   var results = [];
   console.log(queryString);
