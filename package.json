@@ -22,7 +22,7 @@
   "homepage": "https://github.com/eecs394-f16/eecs394-clips-backend#readme",
   "dependencies": {
     "express": "4.14.0",
-    "pg": "6.1.0",
+    "pg": "7.12.1",
     "pg-promise": "5.3.3"
   }
 }
